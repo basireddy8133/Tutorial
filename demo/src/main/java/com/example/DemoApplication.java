@@ -10,6 +10,15 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
+<<<<<<< HEAD
 //22222
 //333
 //444
+=======
+//111111
+
+//jjjh
+//trhdty
+//hgjhjh
+
+>>>>>>> branch 'master' of https://github.com/basireddy8133/Tutorial.git
